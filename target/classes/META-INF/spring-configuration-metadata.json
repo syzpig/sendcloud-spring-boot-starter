@@ -1,0 +1,97 @@
+{
+  "groups": [
+    {
+      "name": "jr.ranlo.sendcloud.email",
+      "type": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties",
+      "sourceType": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jr.ranlo.sendcloud.email.api-key",
+      "type": "java.lang.String",
+      "sourceType": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties",
+      "defaultValue": "9UrR1F5VwmNsntKQ"
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.api-user",
+      "type": "java.lang.String",
+      "sourceType": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties",
+      "defaultValue": "syz15155966193_test_ZcMQlS"
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.apiKey",
+      "type": "java.lang.String",
+      "description": "邮件key",
+      "defaultValue": "9UrR1F5VwmNsntKQ"
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.apiUser",
+      "type": "java.lang.String",
+      "description": "邮件user",
+      "defaultValue": "syz15155966193_test_ZcMQlS"
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.from",
+      "type": "java.lang.String",
+      "sourceType": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties"
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.from-name",
+      "type": "java.lang.String",
+      "sourceType": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties"
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.max-content-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties",
+      "defaultValue": 1048576
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.max-mail-list",
+      "type": "java.lang.Integer",
+      "sourceType": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties",
+      "defaultValue": 5
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.max-receivers",
+      "type": "java.lang.Integer",
+      "sourceType": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties",
+      "defaultValue": 100
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.maxContentSize",
+      "type": "java.lang.Integer",
+      "description": "邮件内容大小",
+      "defaultValue": 1048576
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.maxMailList",
+      "type": "java.lang.Integer",
+      "description": "最大地址列表数",
+      "defaultValue": 5
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.maxReceivers",
+      "type": "java.lang.Integer",
+      "description": "最大收件人数",
+      "defaultValue": 100
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.reply-to",
+      "type": "java.lang.String",
+      "sourceType": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties"
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.sms-key",
+      "type": "java.lang.String",
+      "sourceType": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties"
+    },
+    {
+      "name": "jr.ranlo.sendcloud.email.sms-user",
+      "type": "java.lang.String",
+      "sourceType": "com.jr.ranlo.sendcloud.autoConfiguration.SendCloudEmailProperties"
+    }
+  ],
+  "hints": []
+}
